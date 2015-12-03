@@ -7,6 +7,7 @@ The link for the paper can be found [here](http://dl.acm.org/citation.cfm?id=266
 
 The project home page is [here](https://sites.google.com/a/utexas.edu/critics/home).
 The tool can be downloaded [here](https://sites.google.com/a/utexas.edu/critics/download).
+The video for the tool can be found [here](https://www.youtube.com/watch?v=F2D7t_Z5rhk).
 
 In this repository for Critics you will find:
 * :x: Source code (not available)
