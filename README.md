@@ -6,7 +6,7 @@ This tool has been developed and presented at the FSE 2014 conference by Dr. Mir
 The link for the paper can be found [here](http://dl.acm.org/citation.cfm?id=2661675). 
 
 The project home page is [here](https://sites.google.com/a/utexas.edu/critics/home).
-The tool can be downloaded [here](https://sites.google.com/a/utexas.edu/critics/home).
+The tool can be downloaded [here](https://sites.google.com/a/utexas.edu/critics/download).
 
 In this repository for Critics you will find:
 * :x: Source code (not available)
