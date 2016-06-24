@@ -11,8 +11,8 @@ The video for the tool can be found [here](https://www.youtube.com/watch?v=F2D7t
 
 In this repository for Critics you will find:
 * :x: Source code (not available)
+* :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
-* :white_check_mark: [Link to the original Binaries in the tool's websites](https://sites.google.com/a/utexas.edu/critics/download).
 
 This repository was constructed by [Vinay Suryadevara](https://github.com/vinay92) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
